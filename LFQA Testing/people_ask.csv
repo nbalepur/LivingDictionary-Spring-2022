@@ -1,0 +1,694 @@
+,sentence,is_instance
+0,"The genetic algorithm (GA), developed by John Holland and his collaborators in the 1960s and 1970s (Holland, 1975; De Jong, 1975), is a model or abstraction of biological evolution based on Charles Darwin's theory of natural selection.",True
+1,This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation.,False
+2,"The genetic algorithm is a method for solving both constrained and unconstrained optimization problems that is based on natural selection, the process that drives biological evolution.",False
+3,"In a ""genetic algorithm,"" the problem is encoded in a series of bit strings that are manipulated by the algorithm; in an ""evolutionary algorithm,"" the decision variables and problem functions are used directly.",False
+4,Genetic algorithms are used in the traveling salesman problem to establish an efficient plan that reduces the time and cost of travel.,True
+5,The purpose of mutation in GAs is to introduce diversity into the sampled population.,False
+6,Fitness function and Crossover techniques are the two main features of the Genetic Algorithm.,False
+7,All the big companies are now using Neural Nets(NNs) and Genetic Algorithms(GAs) to help their NNs to learn better and more efficiently.,False
+8,Genetic algorithms are used in artificial intelligence like other search algorithms are used in artificial intelligence — to search a space of potential solutions to find one which solves the problem.,False
+9,A genetic algorithm is a class of evolutionary algorithm.,False
+10,The main difference between genetic programming and genetic algorithms is the representation of the solution.,False
+11,"Optimization by natural selection An EA contains four overall steps: initialization, selection, genetic operators, and termination.",True
+12,"Carolus Linnaeus (he loved Latin and used it for everything, including changing his name to the Latin version), is considered to be the founder of modern taxonomy.",True
+13,"Swedish naturalist and explorer Carolus Linnaeus was the first to frame principles for defining natural genera and species of organisms and to create a uniform system for naming them, known as binomial nomenclature.",True
+14,"Today we use the system invented by the Swedish naturalist Carl von Linnaeus (1707-1778), and published in his Systema Naturae , in 1735.",True
+15,The term is derived from the Greek taxis (“arrangement”) and nomos (“law”).,True
+16,Carl Linnaeus.,True
+17,It helps us understand the inter-relationship among different groups of organisms.,False
+18,He created a classification system called the “Great Chain of Being” (See Figure below).,True
+19,"The classification system is a system for classifying things, particularly, the collection of procedures, characteristics, and definitions used to classify and/or identify things.",False
+20,"Aristotle's System He was a great observer of nature, and he formally described and classified hundreds of species.",False
+21,There are seven main levels of classification in the hierarchy.,False
+22,Definition of classification 1 : the act or process of classifying.,False
+23,It is based on shared characteristics.,False
+24,Scientists classify living things to organize and make sense of the incredible diversity of life.,False
+25,[ klăs′ə-fĭ-kā′shən ] n. A systematic arrangement into classes or groups.,False
+26,Importance of Classification is that by grouping this organisms in kingdoms you can study them in an easy and systematic manner.,False
+27,"Two kingdoms of life Carl Linnaeus (1707–1778) laid the foundations for modern biological nomenclature, now regulated by the Nomenclature Codes, in 1735.",True
+28,Robert Whittaker's five-kingdom system was a standard feature of biology textbooks during the last two decades of the twentieth century.,True
+29,The workable classification of Plant Kingdom was proposed by Carolus Linnaeus in 1735 which was published in the name of Systema Naturae (10th edition) in 1758.,True
+30,History of Deep Learning Over the Years The history of deep learning dates back to 1943 when Warren McCulloch and Walter Pitts created a computer model based on the neural networks of the human brain.,True
+31,"The term Deep Learning was introduced to the machine learning community by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.",True
+32,Deep Learning is a subset of Machine Learning that uses mathematical functions to map the input to the output.,False
+33,"The first serious deep learning breakthrough came in the mid-1960s, when Soviet mathematician Alexey Ivakhnenko (helped by his associate V.G.",True
+34,The ability to process large numbers of features makes deep learning very powerful when dealing with unstructured data.,False
+35,"Deep learning (DL) frameworks offer building blocks for designing, training, and validating deep neural networks through a high-level programming interface.",False
+36,Deep Learning is called Deep because of the number of additional “Layers” we add to learn from the data.,False
+37,Deep learning applications are used in industries from automated driving to medical devices.,True
+38,"Andrew Ng is the founder of DeepLearning.ai, which is an education technology company that is helping develop a global community of AI talent.",True
+39,Deep learning utilizes both structured and unstructured data for training.,False
+40,"While machine learning uses simpler concepts, deep learning works with artificial neural networks, which are designed to imitate how humans think and learn.",False
+41,"Convolutional Neural Networks, or CNNs, were designed to map image data to an output variable.",False
+42,Conclusions: Deep learning techniques achieve high accuracy and is effective as a new image classification technique.,False
+43,"In the 1930s, Alan Turing introduced the idea of a universal computing machine that could perform complex computations.",True
+44,Data mining began in the 1990s and is the process of discovering patterns within large data sets.,True
+45,"This opened a big door allowing organizations to record customer purchases and data, the resulting data could be mined to identify customer purchasing patterns.",True
+46,Data mining is the process of discovering actionable information from large sets of data.,False
+47,Data mining is a process used by companies to turn raw data into useful information.,False
+48,The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.,True
+49,"There are numerous crucial data mining techniques to consider when entering the data field, but some of the most prevalent methods include clustering, data cleaning, association, data warehousing, machine learning, data visualization, classification, neural networks, and prediction.",False
+50,"The current data mining software landscape provides some crucial insights into data mining prevalence and adoption across industries: according to analyst predictions, the global data mining tools market will increase from $552.1 million in 2018 to $1.31 billion by 2026, at a CAGR of 11.42% between 2019 and 2026.",True
+51," Many Definitions  Extraction of implicit, previously unknown and potentially useful information from data  Exploration & analysis, by automatic or semi-automatic means, of large quantities of data in order to discover meaningful patterns.",False
+52,"There are a number of data mining tasks such as classification, prediction, time-series analysis, association, clustering, summarization etc.",False
+53,Most Popular Example Of Data Mining: Marketing And Sales Banks use data mining to analyze the transactions which the customer do before they decide to change the bank to reduce customer attrition.,False
+54,The characteristics of Data Mining are: Prediction of likely outcomes.,False
+55,Regression (predictive) Association Rule Discovery (descriptive) Classification (predictive) Clustering (descriptive),False
+56,"Mining implies digging, and using Excel for data mining lets you dig for useful information - hidden gems in your data.",False
+57,"A Technology Review article in 2011 suggested the oldest use of ""cloud computing"" was at a 1996 meeting of Internet and startup-company executives at Compaq offices in Houston, who's imagineering described the universe being transformed by the Internet as one in which ""'cloud-computing' enabled applications"" would ...",True
+58,"The Late 1990s In its early stages, the cloud was used to express the empty space between the end user and the provider.",True
+59,"Technically, concepts of cloud computing can be traced back to the 1960s - but to me, the origin story of the modern cloud computing can be attributed to Salesforce.com, which was founded in 1999 and later launched one of the first successful public Software-as-a-Service (SaaS) offerings.",True
+60,Cloud computing is believed to have been invented by Joseph Carl Robnett Licklider in the 1960s with his work on ARPANET to connect people and data from anywhere at any time.,True
+61,"The term Cloud Computing has been derived from the symbol of ""Cloud"" which is often used to represent the ""Internet"" in the flowcharts and diagrams.",False
+62,"Before there was cloud computing, there was service oriented architecture (SOA).",False
+63,"In searching for other uses for the computer, Joseph discovered a way of connecting people, allowing the sharing of data and communicating on a global scale.",False
+64,Amazon Web Services: Amazon Web Services (AWS) is a subsidiary of Amazon (a leading company in eCommerce).,False
+65,"Uses of the cloud include data storage, offering remote access to any work related data.",True
+66,"Luke Howard, FRS (28 November 1772 – 21 March 1864) was a British manufacturing chemist and an amateur meteorologist with broad interests in science.",True
+67,"There are 4 main types of cloud computing: private clouds, public clouds, hybrid clouds, and multiclouds.",False
+68,"AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.",False
+69,"Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.",False
+70,SVM or Support Vector Machine is a linear model for classification and regression problems.,False
+71,• Support vectors are the data points that lie closest.,False
+72,to the decision surface (or hyperplane) • They are the data points most difficult to classify.,False
+73,"We use SVM for identifying the classification of genes, patients on the basis of genes and other biological problems.",True
+74,in 1992 and has become popular due to success in handwritten digit recognition in 1994.,False
+75,Pros and Cons associated with SVM It is effective in high dimensional spaces.,False
+76,It is based on statistical learning theory and was developed by Vapnik in the year 1995.,True
+77,8) Support vectors are the data points that lie closest to the decision surface.,False
+78,"If the regularization parameter is 1, the SVM uses 81 support vectors and has an accuracy of 0.82, in order to classify the flowers of the Iris dataset.",False
+79,These training instances can be thought of as 'supporting' or 'holding up' the optimal hyperplane.,False
+80,The Neural Support Vector Machine (NSVM) is a hybrid learning algorithm consisting of neural networks and support vector machines (SVMs).,False
+81,The goal of SVM is to divide the datasets into classes to find a maximum marginal hyperplane (MMH).,False
+82,"For face recognition, we re-interpret the deci- sion surface to produce a similarity metric between two facial images.",False
+83,SVMs are really good for text classification.,False
+84,The non-linear kernel SVMs can be slow if you have too many training samples.,False
+85,2) SVMs perform poorly in imbalanced datasets The first being the weakness of the soft margin optimization problem.,False
+86,"One of the most popular and simple clustering algorithms, K-means, was first published in 1955.",True
+87,"The formal engineering basis of cluster computing as a means of doing parallel work of any sort was arguably invented by Gene Amdahl of IBM, who in 1967 published what has come to be regarded as the seminal paper on parallel processing: Amdahl's Law.",True
+88,The goal of clustering is to find distinct groups or “clusters” within a data set.,False
+89,"Unlike supervised methods, clustering is an unsupervised method that works on datasets in which there is no outcome (target) variable nor is anything known about the relationship between the observations, that is, unlabeled data.",False
+90,"Clustering, also called mind mapping or idea mapping, is a strategy that allows you to explore the relationships between ideas.",False
+91,Cluster evaluation is based on sharing successes and mutual problem solving across the cluster of projects (often projects funded from a basket fund).,False
+92,"There are two different types of clustering, which are hierarchical and non-hierarchical methods.",False
+93,"Cluster analysis, or clustering, is an unsupervised machine learning task.",False
+94,Retail companies often use clustering to identify groups of households that are similar to each other.,False
+95,"A geographical cluster is a localized anomaly, usually an excess of something given the distribution or variation of something else.",False
+96,Hierarchical clustering algorithm works by iteratively connecting closest data points to form clusters.,False
+97,Clustering can also serve as a useful data-preprocessing step to identify homogeneous groups on which to build predictive models.,False
+98,"Although both techniques have certain similarities, the difference lies in the fact that classification uses predefined classes in which objects are assigned, while clustering identifies similarities between objects, which it groups according to those characteristics in common and which differentiate them from other ...",False
+99,The aim of model checking is to examine whether or not the execution tree satisfies a user-given property specification.,False
+100,"In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",False
+101,"There are three different phases to performing model checking, the modeling phase, the running phase, and the analysis phase.",False
+102,Advantages over testing/simulation techniques: Testing cannot cover all the possible cases.,False
+103,Model checking is an automatic verification technique for finite state concurrent systems.,False
+104,Statistical Model Checking (SMC) is a formal verification technique that combines simulation and statistical methods for the analysis of stochastic systems.,False
+105,"Basic formal verification algorithms Given a set of requirements defined as temporal logic properties and a finite-state system, a model-checking algorithm can search over the possible future states and determine whether a property is violated.",False
+106,"Model checking [1,8] is a formal method for verifying if an abstract represen- tation of a system (i.e.",False
+107,By formally specifying that model or meta-model.,False
+108,Modeling involves making a representation of something.,False
+109,Formal methods have many advantages: they help disambiguate system specifications and articulate implicit assumptions.,False
+110,"As the number of state variables in the system increases, the size of the system state space grows exponentially.",False
+111,Formal verification of software programs involves proving that a program satisfies a formal specification of its behavior.,False
+112,"Symbolic Modeling is a therapeutic method that uses symbols, metaphors, and modeling to facilitate positive change.",False
+113,"In general, BDDs operate on sets of points rather than individual points; this is called symbolic manipulation.",False
+114,"It is derived from Latin securus, meaning freedom from anxiety: se (without) + cura (care, anxiety).",True
+115,The security industry that we know today was founded in 1850 by Allan Pinkerton with the establishment of the Pinkerton National Detective Agency based in Chicago.,True
+116,"Our early ancestors who spent a lot of time in caves did set up an early primitive security system, which they would be well and truly involved in.",False
+117,The person who invented the first security system was Marie Van Brittan Brown.,True
+118,1 : the quality or state of being secure: such as.,False
+119,"The four types of security are debt, equity, derivative, and hybrid securities.",False
+120,"Corps Security Established in 1859, it is said to be the world's oldest security firm, and today it has a team of about 3,000 security personnel plus a dozen offices throughout the U.K.",True
+121,The Bureau of Industry and Security promotes the nation's economic development and technological advancement by ensuring an effective export control and treaty compliance system.,False
+122,"In ancient history, people used fire and night watches to protect themselves from enemies and wild animals.",False
+123,History can be useful for policymakers dealing with emerging technologies and security problems.,True
+124,"Regulation of the private security industry began in 1915, when California enacted a licensing requirement for private investigators.",True
+125,TO BE SPECIALLY WATCHFUL AT NIGHT AND DURING THE TIME OF CHALLENGING TO CHALLENGE ALL PERSON ON OR NEAR MY POST AND TO ALLOW NO ONE TO PASS OR LOITER WITHOUT PROPER AUTHORITY.,False
+126,"Effective and reliable workplace security is very important to any business because it reduces insurance, compensation, liabilities, and other expenses that the company must pay to its stakeholders, ultimately leading to increased business revenue and a reduction in operational charges incurred.",False
+127,Brown needed a way to feel safer in her apartment.,True
+128,"Some of the most common examples of securities include stocks, bonds, options, mutual funds, and ETF shares.",False
+129,The security industry is made up of companies that manufacture and sell security products to the world.,False
+130,Much literature suggests that the concept of optimization was used in 100 BC for calculating the appropriate distance between two points.,True
+131,"In 1954, L.R.",True
+132,The advancement of differential calculus methods for optimization can be attributed to the contributions of Leibnitz and Newton to calculus.,False
+133,"Definition of optimization : an act, process, or methodology of making something (such as a design, system, or decision) as fully perfect, functional, or effective as possible specifically : the mathematical procedures (such as finding the maximum of a function) involved in this.",False
+134,The purpose of optimization is to achieve the “best” design relative to a set of prioritized criteria or constraints.,False
+135,"They are used, for example, by GPS systems, by shipping companies delivering packages to our homes, by financial companies, airline reservations systems, etc.",False
+136,Optimization can be further divided into two categories: Linear programming and Quadratic programming.,False
+137,"In this page you can discover 12 synonyms, antonyms, idiomatic expressions, and related words for optimise, like: optimize, evaluate, utilise, improve, optimal, maximize, maximise, fine-tune, enhance, optimum and optimisation.",False
+138,"Every optimization problem has three components: an objective function, decision variables, and constraints.",False
+139,An optimization algorithm is a procedure which is executed iteratively by comparing various solutions till an optimum or a satisfactory solution is found.,False
+140,Optimization focuses on finding the minimum (or maximum) value of an objective function subject to constraints that represent user preferences and/or limitations imposed by the nature of the question at hand.,False
+141,Optimizers are algorithms or methods used to change the attributes of your neural network such as weights and learning rate in order to reduce the losses.,False
+142,Brain optimization refers to the process of challenging the brain to develop optimal fundamental skills that are necessary for learning.,False
+143,"In mathematics, computer science and economics, an optimization problem is the problem of finding the best solution from all feasible solutions.",False
+144,One of the earliest known mathematicians were Thales of Miletus (c. 624–c.,True
+145,Dantzig is known throughout the world as the father of linear programming.,True
+146,"And, in fact, Dantzig himself not only developed this method, he introduced a method for solving the linear programming problem called the simplex method and turned that into a computer program, an algorithm, the simplex algorithm, which is--in fact, until computers started to be used for e-mail on the World Wide Web ...",False
+147,Top reasons to use feature selection are: It enables the machine learning algorithm to train faster.,False
+148,The main goal of feature selection is to improve the performance of a predictive model and reduce the computational cost of modeling.,False
+149,It follows a greedy search approach by evaluating all the possible combinations of features against the evaluation criterion.,False
+150,"There are three types of feature selection: Wrapper methods (forward, backward, and stepwise selection), Filter methods (ANOVA, Pearson correlation, variance thresholding), and Embedded methods (Lasso, Ridge, Decision Tree).",False
+151,Feature Importance refers to techniques that calculate a score for all the input features for a given model — the scores simply represent the “importance” of each feature.,False
+152,Feature Selection is the method of reducing the input variable to your model by using only relevant data and getting rid of noise in data.,False
+153,"It is desirable to reduce the number of input variables to both reduce the computational cost of modeling and, in some cases, to improve the performance of the model.",False
+154,Feature selection is the process of selecting the subset of the relevant features and leaving out the irrelevant features present in a dataset to build a model of high accuracy.,False
+155,"So, the conclusion is that Deep Learning Networks do not need a previos feature selection step.",False
+156,"Yes, feature selection is one of the most crucial task for machine learning problems, after performing data wrangling and cleaning.",False
+157,Feature selection is the process of discarding some of the features of the patterns and using only a subset of the features…,False
+158,A feature is a distinctive trait or a special attraction.,False
+159,Univariate feature selection works by selecting the best features based on univariate statistical tests.,False
+160,"The first step toward artificial neural networks came in 1943 when Warren McCulloch, a neurophysiologist, and a young mathematician, Walter Pitts, wrote a paper on how neurons might work.",True
+161,The first artificial neural network was invented in 1958 by psychologist Frank Rosenblatt.,True
+162,"Neural networks were first proposed in 1944 by Warren McCullough and Walter Pitts, two University of Chicago researchers who moved to MIT in 1952 as founding members of what's sometimes called the first cognitive science department.",True
+163,"The first functional networks with many layers were published by Ivakhnenko and Lapa in 1965, as the Group Method of Data Handling.",True
+164,"ohn McCarthy, father of artificial intelligence, in 2006, five years before his death.",True
+165,The 2012 breakthrough—the deep learning revolution—was the discovery that we can get dramatically better performance out of neural networks with not just a few layers but with many.,True
+166,"Neural networks include various technologies like deep learning, and machine learning as a part of Artificial Intelligence (AI).",False
+167,Neural networks are a series of algorithms that mimic the operations of an animal brain to recognize relationships between vast amounts of data.,False
+168,Year 1943: The first work which is now recognized as AI was done by Warren McCulloch and Walter pits in 1943.,True
+169,"The first AI program to run in the United States also was a checkers program, written in 1952 by Arthur Samuel for the prototype of the IBM 701.",True
+170,"John McCarthy, a professor emeritus of computer science at Stanford, the man who coined the term ""artificial intelligence"" and subsequently went on to define the field for more than five decades, died suddenly at his home in Stanford in the early morning Monday, Oct.",True
+171,"December 1955 Herbert Simon and Allen Newell develop the Logic Theorist, the first artificial intelligence program, which eventually would prove 38 of the first 52 theorems in Whitehead and Russell's Principia Mathematica.",True
+172,Multi-agent systems (MAS) are a core area of research of contemporary artificial intelligence.,False
+173,"A good example is the expert assistant, where an agent acts like an expert assistant to a user attempting to fulfil some task on a computer.",False
+174,CIRL algorithms can only be applied in the cooperative multiagent system that is better than the single agent reinforcement learning only in some environments.,False
+175,"Applications where multi-agent systems research may deliver an appropriate approach include online trading, disaster response, target surveillance and social structure modelling.",True
+176,Reputation “What a social entity says about a target regarding his/her behavior” It is always associated to a specific behaviour/property • The social evaluation linked to the reputation is not necessarily a belief of the issuer.,False
+177,"Cooperative multi-agent systems are ones in which several agents attempt, through their interaction, to jointly solve tasks or to maximize utility.",False
+178,"Multiagent scheduling differs from multiagent planning the same way planning and scheduling differ: in scheduling often the tasks that need to be performed are already decided, and in practice, scheduling tends to focus on algorithms for specific problem domains"".",False
+179,Multi-agent planning (MAP) deals with planning systems that reason on long-term goals by multiple collaborative agents which want to maintain privacy on their knowledge.,False
+180,Agents and environments An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.,False
+181,The 'q' in q-learning stands for quality.,False
+182,The goal of reinforcement learning is to train an agent to complete a task within an uncertain environment.,False
+183,"Swarm intelligence (SI) is the collective behavior of decentralized, self-organized systems, natural or artificial.",False
+184,"In agent-based modeling (ABM), a system is modeled as a collection of autonomous decision-making entities called agents.",False
+185,"AI assistants, like Alexa and Siri, are examples of intelligent agents as they use sensors to perceive a request made by the user and the automatically collect data from the internet without the user's help.",False
+186,"Communication is necessary in order to allow collaboration, negotiation, cooperation, etc… between independent entities.",False
+187,This was a straightforward game that simulated a missile being fired at a target.,True
+188,"A simulation is a model that mimics the operation of an existing or proposed system, providing evidence for decision-making by being able to test different scenarios or process changes.",False
+189,"A version of the simulation hypothesis was first theorized as a part of a philosophical argument on the part of René Descartes, and later by Hans Moravec.",True
+190,The Purpose of Simulation The underlying purpose of simulation is to shed light on the underlying mechanisms that control the behavior of a system.,False
+191,"One popular argument for the simulation hypothesis, outside of acid trips, came from Oxford University's Nick Bostrom in 2003 (although the idea dates back as far as the 17th-century philosopher René Descartes).",True
+192,It began with anatomical models and task trainers in the mid to late 1800s.,True
+193,"First, we describe, from a pediatric perspective, the 2 main types of simulation-based research: (1) studies that assess the efficacy of simulation as a training methodology and (2) studies where simulation is used as an investigative methodology.",False
+194,"Some examples include fire drills, weather forecasting, CGI graphics in entertainment, and simulation used in healthcare to teach skills or prepare for emergencies.",False
+195,"Reality is merely an illusion, although a very persistent one.",False
+196,"So, while there is a less than 50% chance that we live in a simulation, this figure should be treated as an absolute upper limit.",False
+197,It is proposed that thinking is simulated interaction with the environment.,False
+198,"The model represents the system itself, whereas the simulation represents the operation of the system over time.",False
+199,Simulations offer a chance to experience real life scenarios that depict true events.,False
+200,Another difference with virtual reality is that computer simulations need not be interactive.,False
+201,Matrix theory is a branch of mathematics which is focused on study of matrices.,False
+202,Simulation statistics is using artificially generate data in order to test out a hypothesis or statistical method.,False
+203,"The first step toward artificial neural networks came in 1943 when Warren McCulloch, a neurophysiologist, and a young mathematician, Walter Pitts, wrote a paper on how neurons might work.",True
+204,The first artificial neural network was invented in 1958 by psychologist Frank Rosenblatt.,True
+205,"Neural networks were first proposed in 1944 by Warren McCullough and Walter Pitts, two University of Chicago researchers who moved to MIT in 1952 as founding members of what's sometimes called the first cognitive science department.",True
+206,"The first functional networks with many layers were published by Ivakhnenko and Lapa in 1965, as the Group Method of Data Handling.",True
+207,Year 1943: The first work which is now recognized as AI was done by Warren McCulloch and Walter pits in 1943.,True
+208,"Neural networks include various technologies like deep learning, and machine learning as a part of Artificial Intelligence (AI).",False
+209,"ohn McCarthy, father of artificial intelligence, in 2006, five years before his death.",True
+210,"Invented at the Cornell Aeronautical Laboratory in 1957 by Frank Rosenblatt, the Perceptron was an attempt to understand human memory, learning, and cognitive processes.",True
+211,AI winter is a quiet period for artificial intelligence research and development.,False
+212,ADALINE (Adaptive Linear Neuron or later Adaptive Linear Element) is an early single-layer artificial neural network and the name of the physical device that implemented this network.,False
+213,This is your brain as a neural network.,False
+214,"The first AI programs The earliest successful AI program was written in 1951 by Christopher Strachey, later director of the Programming Research Group at the University of Oxford.",True
+215,The term artificial intelligence was first coined by John McCarthy in 1956 when he held the first academic conference on the subject.,True
+216,"In the 1960s, the US Department of Defense took interest in this type of work and began training computers to mimic basic human reasoning.",True
+217,AI was a term first coined at Dartmouth College in 1956.,True
+218,"The earliest successful AI program was written in 1951 by Christopher Strachey, later director of the Programming Research Group at the University of Oxford.",True
+219,"John McCarthy, a professor emeritus of computer science at Stanford, the man who coined the term ""artificial intelligence"" and subsequently went on to define the field for more than five decades, died suddenly at his home in Stanford in the early morning Monday, Oct. 24.",True
+220,It began with the “heartless” Tin man from the Wizard of Oz and continued with the humanoid robot that impersonated Maria in Metropolis.,True
+221,Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intelligence and discernment.,False
+222,The first working AI programs were written in 1951 to run on the Ferranti Mark 1 machine of the University of Manchester: a checkers-playing program written by Christopher Strachey and a chess-playing program written by Dietrich Prinz.,True
+223,The first practical and still most widely used AI programming language is the functional language Lisp developed by John McCarthy in the late 1950s.,True
+224,"Named lovingly for its trembly movements, Shakey was developed at SRI International between 1966 and 1972 and became famous for being the first AI-based mobile robot to accomplish a task without the need for step-by-step instructions.",True
+225,"One of the greatest innovators in the field was John McCarthy, widely recognized as the father of Artificial Intelligence due to his astounding contribution in the field of Computer Science and AI.",True
+226,"There are four types of artificial intelligence: reactive machines, limited memory, theory of mind and self-awareness.",False
+227,"While artificial intelligence (AI) is among today's most popular topics, a commonly forgotten fact is that it was actually born in 1950 and went through a hype cycle between 1956 and 1982.",False
+228,"These three types are artificial narrow intelligence (ANI), artificial general intelligence (AGI), and artificial super intelligence (ASI).",False
+229,"In the early 20th century the term was adopted by the German founder of phenomenology, Edmund Husserl, who called Wolff's general metaphysics “formal ontology” and contrasted it with special “regional ontologies,” such as the ontologies of nature, mathematics, mind, culture, and religion.",True
+230,"Although the concept of biology as a single coherent field arose in the 19th century, the biological sciences emerged from traditions of medicine and natural history reaching back to Ayurveda, ancient Egyptian medicine and the works of Aristotle and Galen in the ancient Greco-Roman world.",True
+231,Theories within ontology are theories that explain the nature of existence by describing its substance or causes.,False
+232,"In the traditional philosophical discussions (Plato and Aristotle) regarding ontology, the nature of being is concerned with what truly exists.",False
+233,Ontology is sometimes referred to as the science of being and belongs to the major branch of philosophy known as metaphysics.,False
+234,Ontology helps researchers recognize how certain they can be about the nature and existence of objects they are researching.,False
+235,the theory that life exists and is distributed throughout the universe in the form of germs or spores that develop in the right environment.,False
+236,Biology is a branch of science that deals with living organisms and their vital processes.,False
+237,"Broadly speaking, three distinct ontological positions identified are realism, idealism and materialism (Snape & Spencer 2003).",False
+238,"In this page you can discover 21 synonyms, antonyms, idiomatic expressions, and related words for ontology, like: the nature of being, philosophy of existence, metaphysics, cosmology, schemas, ontology-based, relational, semantics, domain-specific, hypermedia and object oriented.",False
+239,"For example, some ontologies include large reference hierarchies of common terms used in the domain.",False
+240,The correspondence theory of truth is at its core an ontological thesis: a belief is true if there exists an appropriate entity – a fact – to which it corresponds.,False
+241,The ontology or an appropriate version of it can be used to guide students to understand the organization of their own learning and to self- assess their own progress.,False
+242,"Reality is the sum or aggregate of all that is real or existent within a system, as opposed to that which is only imaginary.",False
+243,"Thus, ontologies can be used in formulating some data searching strategies.",True
+244,In other words addressing the question: What is existence?,False
+245,Wireless sensor networks (WSNs) are interconnected sensor nodes that communicate wirelessly to collect data about the surrounding environment.,False
+246,"Such networks are used in industrial and consumer applications, such as industrial process monitoring and control and machine health monitoring.",True
+247,"Wireless Sensor Network in IoT is an infrastructure-less wireless network that is used for deploying a large number of wireless sensors that monitor the system, physical and environmental conditions.",False
+248,"A Wireless Sensor Network is a technology that responds and detects some kind of input from both the physical or environmental conditions, like heat, pressure, light, etc.",False
+249,"They are characterized as infrastructure less, fault tolerant and self-organizing networks which provide opportunities for low-cost, easy-to-apply, rapid and flexible installations in an environment for various applications.",False
+250,"The applications of wireless sensor networks mainly include health, military, environmental, home, & other commercial areas.",False
+251,"The components of a sensor network include sensor nodes, sensors, the gateway, and a management node.",False
+252,"The individual nodes in a wireless sensor network (WSN) are inherently resource constrained: they have limited processing speed, storage capacity, and communication bandwidth.",False
+253,"Challenges in such WSN include high bandwidth demand, high energy consumption, quality of service (QoS) provisioning, data processing and compressing techniques, and cross-layer design.",False
+254,The latest switching regulators allow sensors to be powered for much longer using batteries.,False
+255,Benefits or advantages of WSN ➨It is scalable and hence can accommodate any new nodes or devices at any time.,False
+256,"There are basically three different types of wireless networks – WAN, LAN and PAN: Wireless Wide Area Networks (WWAN): WWANs are created through the use of mobile phone signals typically provided and maintained by specific mobile phone (cellular) service providers.",False
+257,"There are four types of wireless networks -- wireless local area networks, wireless metropolitan area networks, wireless personal area networks and wireless wide area networks -- each with its own function.",False
+258,"Wireless communication takes places over free space through RF (radio frequency), one device, Transmitter send signal to other device, Receiver.",False
+259,The systematic study of logic seems to have been undertaken first by Aristotle.,True
+260,Logic programming is a programming paradigm that is based on logic.,False
+261,The correct answer is: Logic of a program is called: Semantics.,False
+262,"Logic programming languages, of which PROLOG (programming in logic) is the best known, state a program as a set of logical relations (e.g., a grandparent is the parent of a parent of someone).",False
+263,"Studying Logic Develops Critical Thinking Skills Finally, it's important to study logic to become an effective communicator.",False
+264,"However, the first proposal to use the clausal form of logic for representing computer programs was made by Cordell Green.",True
+265,Logic Programming is a method that computer scientists are using to try to allow machines to reason because it is useful for knowledge representation.,True
+266,Logical programming is a computer programming paradigm that has its foundations in mathematical logic in which program statements express facts and rules about problems within a system.,False
+267,The programming paradigm that is mostly based on formal logic is referred to as Logical Programming.,False
+268,Python Logic programming is a programming paradigm that sees computation as automatic reasoning over a database of knowledge made of facts and rules.,False
+269,The two main types of reasoning involved in the discipline of Logic are deductive reasoning and inductive reasoning.,False
+270,"As the father of western logic, Aristotle was the first to develop a formal system for reasoning.",True
+271,"In mathematical logic, a theory (also called a formal theory) is a set of sentences in a formal language.",False
+272,Consumer virtual reality headsets were first released by video game companies in the early-mid 1990s.,True
+273,Virtual reality technology was invented in 1957 by Morton Heilig.,True
+274,"The first virtual reality headset was created in 1968 by American computer scientist Ivan Sutherland and his student, Bob Sproull.",True
+275,"The goal of VR is to provide human beings with a virtual environment where we can interact with a computer just as we do in the real world, that is, by talking with a virtual human in a spoken language, by writing a letter, or by drawing a picture.",False
+276,"There are 3 primary categories of virtual reality simulations used today: non-immersive, semi-immersive, and fully-immersive simulations.",False
+277,"Oculus, the well-known provider of VR platforms like Oculus Rift S, Oculus Quest, and Oculus Go also offers powerful VR development software, named Medium.",False
+278,Frame rate and latency are most important for Virtual Reality to provide a smooth and enjoyable experience for the user.,False
+279,"It offers tangible benefits for individual learners, streamlining workflows through teams training together and contributing to a safer and more productive workplace.",False
+280,AR uses a real-world setting while VR is completely virtual.,False
+281,"Particle swarm optimization (PSO), which is one of swarm intelligence algorithms, was invented by Eberhart and Kennedy in 1995 [29, 42].",True
+282,"In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",False
+283,PSO is best used to find the maximum or minimum of a function defined on a multidimensional vector space.,True
+284,Implementation of PSO: PSO is an evolutionary algorithm which requires the generation of random numbers.,False
+285,A bat algorithm (BA) is a heuristic algorithm that operates by imitating the echolocation behavior of bats to perform global optimization.,False
+286,The disadvantages of particle swarm optimization (PSO) algorithm are that it is easy to fall into local optimum in high-dimensional space and has a low convergence rate in the iterative process.,False
+287,The main difference between the PSO approach compared to EC and GA is that PSO does not have genetic operators such as crossover and mutation.,False
+288,"The velocity is commonly regulated, by multiplying a factor to the particle's velocity.",False
+289,For small scale there is no significant difference between the two methods.,False
+290,"Swarm intelligence (SI) is the collective behavior of decentralized, self-organized systems, natural or artificial.",False
+291,But there is no guarantee for PSO or other metahuristcs to find the global optimum.,False
+292,"The main advantages of the PSO algorithm are summarized as: simple concept, easy implementation, robustness to control parameters, and computational efficiency when compared with mathematical algorithm and other heuristic optimization techniques.",False
+293,"If you do not reset the random number seed between runs, then you will get different answers.",True
+294,Crow search algorithm (CSA) is a new type of swarm intelligence optimization algorithm proposed by simulating the crows' intelligent behavior of hiding and retrieving food.,False
+295,The Bat algorithm is a metaheuristic algorithm for global optimization.,False
+296,The cuckoo optimization algorithm (COA) is used for continuous non-linear optimization.,False
+297,Privacy has historical roots in ancient Greek philosophical discussions.,True
+298,"A very important step was the creation of the modern privacy notion, which first appeared in the famous study (The Right to Privacy) written by Louis Brandeis and Samuel Warren in 1890.",True
+299,"In 1890, Samuel Warren and Louis Brandeis, published a 42 page article called “The Right to Privacy” in the Harvard Law review, which is one of the first known writings recognizing the importance of consent when being photographed or recorded.",True
+300,"Privacy helps us establish boundaries to limit who has access to our bodies, places and things, as well as our communications and our information.",False
+301,"In 1890, the very year in which Warren and Brandeis invented the right to privacy, the Superintendent of the Census declared that the frontier was officially closed.",True
+302,"Broadly speaking, privacy is the right to be let alone, or freedom from interference or intrusion.",False
+303,"Privacy, as we understand it, is only about 150 years old.",False
+304,The Electronic Communications Privacy Act (1986): The ECPA was put into effect to better protect individuals' private information during wire and oral communications.,True
+305,"Protecting privacy is key to ensuring human dignity, safety and self-determination.",False
+306,Privacy underpins human dignity and other key values such as freedom of association and freedom of speech.,False
+307,Social media privacy helps individuals to mind their businesses without interference from the outside world.,False
+308,"Indian privacy law is evolving in response to four types of privacy claims: against the press, against state surveillance, for decisional autonomy and in relation to personal information.",False
+309,"He lists four general categories of privacy-harming activities: information collection, information processing, information dissemination, and invasion.",False
+310,Modern schedule control tools can trace their origins to 1765.,True
+311,The Importance of Scheduling Scheduling is the art of planning your activities so that you can achieve your goals and priorities in the time you have available.,False
+312,"Scheduling is the process of arranging, controlling and optimizing work and workloads in a production process or manufacturing process.",False
+313,"The process of creating a schedule — deciding how to order these tasks and how to commit resources between the variety of possible tasks — is called scheduling, and a person responsible for making a particular schedule may be called a scheduler.",False
+314,"In the 1970s, with flexibility continuing to be a priority, fluid block scheduling became popular and successful.",True
+315,"The advent of the 'micro computer' (ie, personal computer, or PC) changed scheduling for ever.",True
+316,"It helps keep your operations working on time and under budget, which helps you keep your commitment to your customers.",False
+317,"In summary, appointment scheduling is important as it ensures that you make the best use of your time, it will also illustrate to others that you value your own time.",False
+318,"Ensures everyone is on the same page with tasks, dependencies, and deadlines.",False
+319,The Sumerians were the first to use calendars in Mesopotamia during the Bronze Age.,True
+320,"It's an open-ended question, which allows the person to say pretty much anything.",False
+321,A schedule is a plan that gives a list of events or tasks and the times at which each one should happen or be done.,False
+322,Classrooms with consistent schedules and routines facilitate children's • understanding of the learning environment expectations.,False
+323,"The Role of Classroom Schedules A predictable schedule of what to expect during the school day and week cultivates more productive students and therefore greater learning (Burden, 1995; Kamps, 2002).",False
+324,"Traditionally, the grades are A+, A, A−, B+, B, B−, C+, C, C−, D+, D, D− and F, with A+ being the highest and F being lowest.",False
+325,"The roots of facial recognition formed in the 1960s, when Woodrow Wilson Bledsoe developed a system of measurements to classify photos of faces.",True
+326,"The earliest pioneers of facial recognition were Woody Bledsoe, Helen Chan Wolf and Charles Bisson.",True
+327,That's when mathematician and computer scientist Woodrow Wilson Bledsoe first developed a system of measurements that could be used to put photos of faces in different classifications.,True
+328,The Defense Advanced Research Projects Agency (DARPA) and the National Institute of Standards and Technology rolled out the Face Recognition Technology (FERET) program beginning in the 1990s in order to encourage the commercial face recognition market.,True
+329,Samsung was the first to pack advanced facial recognition technologies into a top-tier flagship with iris scanning technology inside the ill-fated Galaxy Note 7.,True
+330,"According to CSIS data and NIST's studies, FRT algorithms' accuracy can reach up to 99,97%, matching iris scanners.",False
+331,Facial recognition is a way of identifying or confirming an individual's identity using their face.,False
+332,"While identifying and finding missing persons and criminals are arguably the most important benefits of facial recognition, they extend beyond security to convenience.",False
+333,"For example, Face ID can't be fooled by a photograph.",False
+334,Security researchers mostly agree that Face ID is less secure than a fingerprint.,False
+335,Logic programming is a programming paradigm that is based on logic.,False
+336,"The logic programming language PROLOG (Programmation en Logique) was conceived by Alain Colmerauer at the University of Aix-Marseille, France, where the language was first implemented in 1973.",True
+337,The first functioning programming languages designed to communicate instructions to a computer were written in the early 1950s.,True
+338,"Logic programming languages, of which PROLOG (programming in logic) is the best known, state a program as a set of logical relations (e.g., a grandparent is the parent of a parent of someone).",False
+339,"However, the first proposal to use the clausal form of logic for representing computer programs was made by Cordell Green.",True
+340,Logic Programming is a method that computer scientists are using to try to allow machines to reason because it is useful for knowledge representation.,True
+341,Developing a clear and well-defined program logic—the chain of events by which a given project is expected to lead to increased household income—is a crucial step in designing MCC projects.,False
+342,Python Logic programming is a programming paradigm that sees computation as automatic reasoning over a database of knowledge made of facts and rules.,False
+343,"Java does not have any full form, but a programming language originally developed by James Gosling at Sun Microsystems in 1995.",False
+344,It was developed as a learning tool for computer programming which meant it was easy to learn.,True
+345,Ada Lovelace: The First Computer Programmer.,True
+346,"The late 1950s saw the invention of coding languages that are still in use today – specifically, FORTRAN, LISP and COBOL.",True
+347,The programming paradigm that is mostly based on formal logic is referred to as Logical Programming.,False
+348,"The Full form of PASCAL is (Programming Language named for Blaise Pascal), or PASCAL stands for (Programming Language named for Blaise Pascal), or the full name of given abbreviation is (Programming Language named for Blaise Pascal).",False
+349,The full form of Prolog is Programming in logic.,False
+350,"With the development of the first head-mounted display system by Evan Sutherland in 1968, augmented reality technology was Invented.",True
+351,"1998: Augmented reality was first used for navigation, in NASA's X-38 spacecraft.",True
+352,"Augmented reality technology was invented in 1968, with Ivan Sutherland's development of the first head-mounted display system.",True
+353,"By superimposing digital information directly on real objects or environments, AR allows people to process the physical and digital simultaneously, eliminating the need to mentally bridge the two.",False
+354,Augmented reality (AR) is an experience where designers enhance parts of users' physical world with computer-generated input.,False
+355,"Augmented reality (AR) is the real-time use of information in the form of text, graphics, audio and other virtual enhancements integrated with real-world objects.",False
+356,"In 2022, there will be an estimated 1.1 billion mobile AR users worldwide.",False
+357,Augmented Reality (AR) enables digital information to be superimposed and integrated into our physical environment.,False
+358,AR makes new modes of storytelling and creative expression possible with experiences unfolding in both our homes and public spaces.,False
+359,Analysts predict that the AR market will reach $198 billion in 2025.,True
+360,"The technical means it uses include Multimedia, 3D-Modelling, Real-time Tracking and Registration, Intelligent Interaction, Sensing and more.",False
+361,"AR can be defined as a system that incorporates three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.",False
+362,AR creates opportunities for teachers to help students grasp abstract concepts.,False
+363,"Operational semantics is a category of formal programming language semantics in which certain desired properties of a program, such as correctness, safety or security, are verified by constructing proofs from logical statements about its execution and procedures, rather than by attaching mathematical meanings to its ...",False
+364,The term is one of a group of English words formed from the various derivatives of the Greek verb sēmainō (“to mean” or “to signify”).,True
+365,"The term semantics (from the Greek word for sign) was coined by French linguist Michel Bréal (1832-1915), who is commonly regarded as a founder of modern semantics.",True
+366,"In denotational semantics, the basic idea is mapping every syntactic entity associated with a programming language into some form of mathematical entity, translating programming language constructs into mathematical objects.",False
+367,"There are three main styles of describing semantics: operational, denotational, and axiomatic.",False
+368,"But usually there is a distinct gap between operational and denotational semantics: The operational semantics is the specification of an interpreter for the programming language whereas the denotational semantics tries to capture the mathematically essence of a program, abstracting away from computational details.",False
+369,One sort of theory of meaning—a semantic theory—is a specification of the meanings of the words and sentences of some symbol system.,False
+370,Children's semantic development is a gradual process beginning just before the child says their first word and incudes a wide range of word types.,False
+371,Definition of sematic : serving as a warning of danger —used of conspicuous colors of a poisonous or noxious animal.,False
+372,There are two types of meaning: conceptual meaning and associative meaning.,False
+373,"• Semantics is the area of linguistics that analyzes the meaning of words, phrases and sentences in language.",True
+374,"Semantics is (or ought to be) an empirical science (like botany, entomology, geology and so forth) rather than a formal science (like logic or mathematics).",False
+375,The referential or denotational theory: The meaning of an expression is what it refers to or denotes.,False
+376,"In computer science, denotational semantics (initially known as mathematical semantics or Scott–Strachey semantics) is an approach of formalizing the meanings of programming languages by constructing mathematical objects (called denotations) that describe the meanings of expressions from the languages.",False
+377,"In denotational semantics, the idea is to map every syntactic entity in a PL into some appropriate mathematical entity.",False
+378,They are rules that people have agreed on to give meaning to certain symbols and words.,False
+379,Semantics describes the processes a computer follows when executing a program in that specific language.,False
+380,"The first trace of big data is seen way back in 1663 when John Graunt dealt with overwhelming amounts of information while he studied the bubonic plague, which was haunting Europe at the time.",True
+381,"Historical data, in a broad context, is collected data about past events and circumstances pertaining to a particular subject.",True
+382,"Since the start of the “Big Data”-hype cycle starting in 2010, we've advanced so much in technology.",True
+383,"The term big data has been in use since the 1990s, with some giving credit to John Mashey for popularizing the term.",True
+384,"Big data is a collection of data from many different sources and is often describe by five characteristics: volume, value, variety, velocity, and veracity.",False
+385,"History is the study of the past – specifically the people, societies, events and problems of the past – as well as our attempts to understand them.",True
+386,"The use of historical data has become a standard tool in economics, serving three main purposes: to examine the influence of the past on current economic outcomes; to use unique natural experiments to test modern economic theories; and to use modern economic theories to refine our understanding of important historical ...",True
+387,Historical data enables the tracking ofimprovement over time which gives key insights.,False
+388,"So the earliest prints of data getting stored and analysed is with the help of tally sticks, in nearly 10000 BCE.",False
+389,"Big data defined The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity.",False
+390,It refers to the quality and accuracy of data.,False
+391,Apache Hadoop is an open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data.,False
+392,Velocity is a 3 V's framework component that is used to define the speed of increase in big data volume and its relative accessibility.,False
+393,An information retrieval process begins when a user enters a query into the system.,False
+394,The term 'information retrieval' was coined by Calvin Mooers in 1950.,True
+395,Definition of information retrieval : the techniques of storing and recovering and often disseminating recorded data especially through the use of a computerized system.,False
+396,"Information retrieval is intended to support people who are actively seeking or searching for information, as in Internet searching.",False
+397,An information retrieval system is designed to enable users to find relevant information from a stored and organized collection of documents.,False
+398,Information retrieval is concerned with search processes in which a user needs to identify a subset of information which is relevant for his information need within a large amount of knowledge.,False
+399,A search engine is one of the most the practical applications of information retrieval techniques to large scale text collections.,False
+400,"Boolean, Vector and Probabilistic are the three classical IR models.",False
+401,There are three types of Information Retrieval (IR) models: 1.,False
+402,Precision and recall are the two parameters of retrieval effectiveness.,False
+403,Information retrieval (IR) is the process of searching within a document collection for a particular information need (called a query) [4].,False
+404,Retrieval tools are crucial for retrieving information for educational outcomes.,False
+405,Natural Language Processing (NLP) a subset technique of Artificial Intelligence which is used to narrow the communication gap between the Computer and Human.,True
+406,"In the early 1900s, a Swiss linguistics professor named Ferdinand de Saussure died, and in the process, almost deprived the world of the concept of “Language as a Science.” From 1906 to 1911, Professor Saussure offered three courses at the University of Geneva, where he developed an approach describing languages as “ ...",True
+407,NLP was revolutionized in the late 1980s thanks to the introduction of statistical NLP and machine learning-driven algorithms for language processing.,True
+408,"The evolution of NLP has come a long way, it started with something as limited and rudimentary as rule-based methods.",False
+409,"It's at the core of tools we use every day – from translation software, chatbots, spam filters, and search engines, to grammar correction software, voice assistants, and social media monitoring tools.",True
+410,"In neuropsychology, linguistics, and the philosophy of language, a natural language or ordinary language is any language that has evolved naturally in humans through use and repetition without conscious planning or premeditation.",False
+411,"2001 - Neural language models The first neural language model, a feed-forward neural network was proposed in 2001 by Bengio et al.",True
+412,"The ultimate aim of NLP is to read, understand, and decode human words in a valuable manner.",False
+413,"According to the research firm, MarketsandMarkets, the NLP market would grow at a CAGR of 20.3% (from 11.6 billion in 2020 to USD 35.1 billion by 2026).",True
+414,No.,False
+415,"Natural Language Processing (NLP) makes the computer system use, interpret, and understand human languages and verbal speech, such as English, German, or another “natural language”.",True
+416,"Arguably the best-known example of NLP, smart assistants such as Siri, Alexa and Cortana have become increasingly integrated into our lives.",False
+417,"Companies use natural language processing applications, such as sentiment analysis, to identify opinons and sentiment online to help them understand what customers think about their products and services (i.e., “I love the new iPhone” and, a few lines later “But sometimes it doesn't work well” where the person is still ...",False
+418,NLU enables human-computer interaction.,False
+419,Feature extraction is a type of dimensionality reduction where a large number of pixels of the image are efficiently represented in such a way that interesting parts of the image are captured effectively.,False
+420,Feature extraction helps to reduce the amount of redundant data from the data set.,False
+421,Another successful example for feature extraction from one-dimensional NMR is statistical correlation spectroscopy (STOCSY) [41].,False
+422,"Feature Extraction uses an object-based approach to classify imagery, where an object (also called segment) is a group of pixels with similar spectral, spatial, and/or texture attributes.",False
+423,Feature extraction is a term used with computers and machine learning.,False
+424,Feature Extraction is one of the most popular research areas in the field of image analysis as it is a prime requirement in order to represent an object.,False
+425,"Selection from the document part can reflect the information on the content words, and the calculation of weight is called the text feature extraction [5].",False
+426,CNN is a neural network that extracts input image features and another neural network classifies the image features.,False
+427,Feature extraction is a process of dimensionality reduction by which an initial set of raw data is reduced to more manageable groups for processing.,False
+428,Feature extraction is an important step for remote sensing image analysis.,False
+429,Introduction  “Feature extraction is the process by which certain features of interest within an image are detected and represented for further processing.”,False
+430,Feature Scaling is a technique to standardize the independent features present in the data in a fixed range.,False
+431,The biggest advantage of Deep Learning is that we do not need to manually extract features from the image.,False
+432,Wireless sensor networks (WSNs) are interconnected sensor nodes that communicate wirelessly to collect data about the surrounding environment.,False
+433,"Such networks are used in industrial and consumer applications, such as industrial process monitoring and control and machine health monitoring.",True
+434,"Wireless Sensor Network in IoT is an infrastructure-less wireless network that is used for deploying a large number of wireless sensors that monitor the system, physical and environmental conditions.",False
+435,"The applications of wireless sensor networks mainly include health, military, environmental, home, & other commercial areas.",False
+436,"They are characterized as infrastructure less, fault tolerant and self-organizing networks which provide opportunities for low-cost, easy-to-apply, rapid and flexible installations in an environment for various applications.",False
+437,"The components of a sensor network include sensor nodes, sensors, the gateway, and a management node.",False
+438,TinyOS and Contiki are perhaps the two most well-known systems.,False
+439,"Challenges in such WSN include high bandwidth demand, high energy consumption, quality of service (QoS) provisioning, data processing and compressing techniques, and cross-layer design.",False
+440,Benefits or advantages of WSN ➨It is scalable and hence can accommodate any new nodes or devices at any time.,False
+441,"The characteristics of a good wireless sensor network include power efficiency, scalability, responsiveness, reliability and mobility.",False
+442,"In signal processing, independent component analysis (ICA) is a computational method for separating a multivariate signal into additive subcomponents.",False
+443,"It learns a linear decomposition (transform) of the data, such as the more classical methods of factor analysis and principal component analysis (PCA).",False
+444,"Independent component analysis (ICA) is a statistical and computational technique for revealing hidden factors that underlie sets of random variables, measurements, or signals.",False
+445,"PCA vs ICA Specifically, PCA is often used to compress information i.e.",False
+446,"It attempts to extract underlying signals that, when combined, produce the resulting EEG.",False
+447,Independent Component Analysis was first formulated in 1986 by Herault and Jutten [ 28 ] in an attempt to solve the BSS problem in signal processing.,True
+448,Independent Component Analysis (ICA) is often used at the signal preprocessing stage in EEG analysis for its ability to filter out artifacts from the signal.,False
+449,"It is composed of independent source signals si, an unknown mixing matrix Ai, and a mixed signal x, where.",False
+450,", n . This mixed signal component can be represented as.",False
+451,"The main difference between The Singular value decomposition and principal component analysis is that The SVD is a data-driven Fourier transform generalization, whereas PCA allows us to represent statistical variations in our data sets using a hierarchical coordinate system based on data.",False
+452,The point about ICA is that it is a non-orthogonal decorrelating transform who's solution is constrained by higher-order statistics.,False
+453,"ICA is a linear dimension reduction method, which transforms the dataset into columns of independent components.",False
+454,"In particular, we will examine the techniques of Principal Component Analysis (PCA) using Singular Value Decomposition (SVD), and Independent Component Analysis (ICA).",False
+455,"Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed.",False
+456,"These components are statistically independent, i.e.",False
+457,"In 1968, Marvin Minsky invented the octopus-like Tentacle Arm.",True
+458,"The earliest robots as we know them were created in the early 1950s by George C. Devol, an inventor from Louisville, Kentucky.",True
+459,“Shakey” was the first mobile robot with the ability to perceive and reason about its surroundings.,True
+460,"Shakey, developed at the Stanford Research Institute (SRI) from 1966 to 1972, was the first mobile robot to reason about its actions.",True
+461,"robot, any automatically operated machine that replaces human effort, though it may not resemble human beings in appearance or perform functions in a humanlike manner.",False
+462,"Joseph F. Engelberger, an engineer credited with creating the world's first industrial robot, has died.",True
+463,General Motors installed the first robot to work in a factory in 1961 to move pieces of hot metal.,True
+464,"Named lovingly for its trembly movements, Shakey was developed at SRI International between 1966 and 1972 and became famous for being the first AI-based mobile robot to accomplish a task without the need for step-by-step instructions.",True
+465,"Now retired from active duty, Shakey is currently on view in a glass display case at the Computer History Museum in Mountain View, California.",True
+466,"The Shakey project ran from 1966 to 1972 and was seen as a way of combining the various fields of artificial intelligence — logic, formulating plans, and executing plans — with computer vision and navigation.",True
+467,"5 Facts about Shakey the Robot Shakey was envisioned as an experimental platform for integrating computer vision, navigation, autonomous plan creation, logical reasoning, and machine learning.",False
+468,"integrate perception and action was FREDDY, a stationary robot with a moving television eye and a pincer hand, constructed at the University of Edinburgh, Scotland, during the period 1966–73 under the direction of Donald Michie.",False
+469,"Pre-programmed robots are ones that have to be told ahead of time what to do, and then they simply execute that program.",False
+470,Robots is a 2005 American computer-animated science fiction adventure comedy film produced by Blue Sky Studios and distributed by 20th Century Fox.,True
+471,"Robots are widely used in manufacturing, assembly and packing, transport, earth and space exploration, surgery, weaponry, laboratory research, and mass production of consumer and industrial goods.",False
+472,"Robotics is an interdisciplinary sector of science and engineering dedicated to the design, construction and use of mechanical robots.",False
+473,"The history of business process management originated with business and commerce themselves, as different people and groups became specialists for different activities and then combined them to create value for others.",True
+474,History of BPM The first recorded idea dates back to Frederick Taylor at the turn of the 19th century.,True
+475,A business process is a collection of linked tasks that find their end in the delivery of a service or product to a client.,False
+476,"When Business Process Management (BPM) emerged in the 2000s, it strived for increasing process efficiency supported by information technology.",True
+477,"Learning the Different Types of BPMS Traditionally, BPM Solutions are either human-centric, document-centric or integration centric.",False
+478,"An example BPM showing events, a message, a timer, activities, and one decision.",False
+479,"These five steps are: Define, Measure, Analyze, Improve and Control.",False
+480,"For example, if your heart contracts 72 times in one minute, your pulse would be 72 beats per minute (BPM).",False
+481,BPMN is a standard set of diagramming conventions for describing business processes.,False
+482,"Optimizing business processes can help you avoid mistakes and delays, improving cost-effectiveness, productivity, supplier relationships, and customer satisfaction.",False
+483,"Examples include: product manufacturing, order to cash process, and delivering products to customers.",False
+484,"The six phases of business process management, as identified in Villanova's Essentials of BPM course, are Assess, Design, Model, Implement, Monitor and Modify.",False
+485,But they are becoming obsolete.,False
+486,"BPM refers to a management process, while BPO refers to the “state of the mind” of an organization, or more exactly its employees.",False
+487,A human resources process is a way of bringing consistency and visibility to a common function of the HR department.,False
+488,"Agile BPM, therefore, from the BPM side of the equation, provides automated and managed structures to provide repeatable business processes, while at the same time, from the agile side of the equation, provides the ability to act immediately, in real time to circumstances that are unforeseen in those processes.",False
+489,The term fuzzy logic was introduced with the 1965 proposal of fuzzy set theory by scientist Lotfi Zadeh.,True
+490,"Fuzzy logic inventor Lotfi Zadeh, UC Berkeley professor, to receive 10 million yen Okawa Prize.",True
+491,"Fuzzy logic is an approach to computing based on ""degrees of truth"" rather than the usual ""true or false"" (1 or 0) Boolean logic on which the modern computer is based.",True
+492,"fuzzy logic, in mathematics, a form of logic based on the concept of a fuzzy set.",False
+493,Fuzzy logic algorithm helps to solve a problem after considering all available data.,False
+494,"The fuzzy logic, which is a technique of the artificial intelligence, rises as a result of studies based on simulating the human brain.",False
+495,"(0 or low), but in Fuzzy logic, We may say glass of warm water (neither hot nor cold).",False
+496,Explanation: Fuzzy Logic (FL) is a method of reasoning that resembles human reasoning.,False
+497,"Therefore, in binary logic, values are limited to two states: 0 (false) and 1 (true).",False
+498,Fuzzy logic is an extension of Boolean logic by Lotﬁ Zadeh in 1965 based on the.,False
+499,"mathematical theory of fuzzy sets, which is a generalization of the classical set theory.",False
+500,"Fuzzy logic is a form of artificial intelligence software; therefore, it would be considered a subset of AI.",False
+501,Image segmentation is a method in which a digital image is broken down into various subgroups called Image segments which helps in reducing the complexity of the image to make further processing or analysis of the image simpler.,False
+502,"To bypass the problem of selecting a huge number of regions, Ross Girshick et al.",True
+503,2014: R-CNN - An Early Application of CNNs to Object Detection.,True
+504,Segmentation is the process of assigning labels to pixels in 2D images or voxels in 3D images.,False
+505,Following are the primary types of image segmentation techniques: Thresholding Segmentation.,False
+506,Image segmentation is the task of clustering parts of an image together that belong to the same object class.,False
+507,(Overview) YOLO is a Convolutional Neural Network (CNN) for performing object detection in real-time.,False
+508,Mask R-CNN is a Convolutional Neural Network (CNN) and state-of-the-art in terms of image segmentation.,False
+509,An RPN is a fully convolutional network that simultaneously predicts object bounds and objectness scores at each position.,False
+510,Recurrent neural networks (RNN) are the state of the art algorithm for sequential data and are used by Apple's Siri and and Google's voice search.,False
+511,Results: The mean average precision (MAP) of Faster R-CNN reached 87.69% but YOLO v3 had a significant advantage in detection speed where the frames per second (FPS) was more than eight times than that of Faster R-CNN.,False
+512,R-CNN is a two-stage detection algorithm.,False
+513,"Thresholding is a type of image segmentation, where we change the pixels of an image to make the image easier to analyze.",False
+514,Image segmentation is the process of partitioning an image into parts or regions.,False
+515,Image segmentation results in more granular information about the shape of an image and thus an extension of the concept of Object Detection.,False
+516,"Segmentation is an important stage of the image recognition system, because it extracts the objects of our interest, for further processing such as description or recognition.",False
+517,It is the process of dividing an image into different regions based on the characteristics of pixels to identify objects or boundaries to simplify an image and more efficiently analyze it.,False
+518,Aaron Klug Invents Digital Image Processing for Two-Dimensional Images : History of Information.,True
+519,"Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it.",False
+520,Benefits of Image Processing It helps to improve images for human interpretation.,False
+521,Explanation: Image acquisition is the first process in image processing.,True
+522,"The English inventor Charles Babbage, however, is generally credited with having conceived the first automatic digital computer.",True
+523,Digital Image Processing (DIP) is a software which is used to manipulate the digital images by the use of computer system.,False
+524,"Common image processing include image enhancement, restoration, encoding, and compression.",False
+525,"2) Deep Learning enables image processing, speech recognition, and complex game play in Artificial Intelligence (AI).",False
+526,"Image Processing is any form of signal processing for which our input is an image, such as photographs or frames of videos and our output can be either an image or a set of characterstics related to the image.",False
+527,"The basic operations performed in a digital image processing systems include (1) acquisition, (2) storage, (3) processing, (4) communication and (5) display.",False
+528,"In image processing, algorithms are used to identify and detect various vital components or desired parts and features of the image.",False
+529,Image processing is the technique to convert an image into digital format and perform operations on it to get an enhanced image or extract some useful information from it.,False
+530,"Realizing the Concept Kevin Ashton, MIT's Executive Director of Auto-ID Labs, coined the phrase “Internet of Things” in 1999.",True
+531,"According to Cisco Internet Business Solutions Group (IBSG), the Internet of Things was born in between 2008 and 2009 at simply the point in time when more “things or objects” were connected to the Internet than people.",True
+532,A brief history of the Internet of Things But the actual term “Internet of Things” was coined by Kevin Ashton in 1999 during his work at Procter&Gamble.,False
+533,Kevin Ashton is an innovator and consumer sensor expert who coined the phrase “the Internet of Things” to describe the network connecting objects in the physical world to the Internet.,True
+534,1990 – First IoT Device John Romkey creates the first smart toaster that could be controlled from the internet.,True
+535,Conversational artificial intelligence (AI).,False
+536,The future of IoT has the potential to be limitless.,True
+537,"IoT technology can help with a variety of those challenges, including regulating lighting, elevators, energy conservation, and improving fire prevention/detection and tracking alternative transportation methods.",False
+538,"Answer: 5G will increase cellular bandwidth by huge amounts, making it much easier for the Internet of Things to network large numbers of devices together.",False
+539,"Some real-world examples of IoT are wearable fitness and trackers (like Fitbits) and IoT healthcare applications, voice assistants (Siri and Alexa), smart cars (Tesla), and smart appliances (iRobot).",False
+540,"In cities, 5G will enable enhanced traffic manage- ment by supporting a massive number of IoT connections to traffic lights, cameras and traffic sensors.",False
+541,"IoT applications are used to address many real-world issues – traffic congestion, city services, economic development, citizen engagement, and public safety and security.",False
+542,The Internet is called 'Network of Networks' because it is a global network of computers that are linked together by cables and telephone lines making communication possible among them.,False
+543,"""Ashton's original definition was: 'Today computers—and, therefore, the Internet—are almost wholly dependent on human beings for information.",False
+544,"Thermostats, cars, lights, refrigerators, and more appliances can all be connected to the IoT.",False
+545,The expression “market segmentation” was first coined by Wendell R. Smith in his 1956 publication Product Differentiation and Market Segmentation as Alternative Marketing Strategies.,True
+546,"The oldest form of segmentation, demographic segments are the industry standard for segmenting subscribers.",True
+547,Segmentation is the process of dividing a company's target market into groups of potential customers with similar needs and behaviours.,False
+548,"The five basic forms of segmentation are demographic (population statistics), geographic (location), psychographic (personality or lifestyle), benefit (product features), and volume (amount purchased).",False
+549,The father of market segmentation is widely considered to be Wendell Smith (1956) who proposed market segmentation as an alternative to product differentiation.,True
+550,The Importance of Market Segmentation Market segmentation can help you to define and better understand your target audiences and ideal customers.,False
+551,A type of behavioral segmentation in which organizational marketers first identify the ways their goods will be used in the final products and then divide the market according to these uses.,False
+552,A key objective for market segmentation is determining what price different groups of consumers are willing to pay for your product.,False
+553,"Common examples of market segmentation include geographic, demographic, psychographic, and behavioral.",False
+554,"The basis of the segmentation is age, sex, education, income, occupation, marital status, family size, family life cycle, religion, nationality and social class.",False
+555,"Five ways to segment markets include demographic, psychographic, behavioral, geographic, and firmographic segmentation.",False
+556,"Social class segmentation identifies individuals based on a combination of socioeconomic such as education, occupation, income, family background, and attitudes related to these factors.",False
+557,"Demographic and socioeconomic segmentation: Demographic and socio-economic segmentation is based on a wide range of factors including age, gender, family size income, education, social class and ethnic origins.",False
+558,"When marketers consider social hierarchy when developing their psychographic targeting efforts, it's mainly because different social class' purchasing power.",False
+559,"Convolutional neural networks, also called ConvNets, were first introduced in the 1980s by Yann LeCun, a postdoctoral computer science researcher.",True
+560,"The LeNet by Yann LeCun Although the work of Fukushima was very powerful in the newly developing field of artificial intelligence, the first modern application of convolutional neural networks was implemented in the 90s by Yann LeCun et al.",True
+561,A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.,False
+562,The term convolution refers to the mathematical combination of two functions to produce a third function.,False
+563,LeNet5.,True
+564,The benefit of using CNNs is their ability to develop an internal representation of a two-dimensional image .,False
+565,"This paper, titled “ImageNet Classification with Deep Convolutional Networks”, has been cited a total of 6,184 times and is widely regarded as one of the most influential publications in the field.",False
+566,Convolutional neural network (or CNN) is a special type of multilayer neural network or deep learning architecture inspired by the visual system of living beings.,False
+567,A convolutional neural network is one that has convolutional layers.,False
+568,"A CNN typically has three layers: a convolutional layer, a pooling layer, and a fully connected layer.",False
+569,Convolution is a specialized kind of linear operation.,False
+570,CNN is an efficient recognition algorithm which is widely used in pattern recognition and image processing.,False
+571,Definition of convolution 1 : a form or shape that is folded in curved or tortuous windings the convolutions of the intestines.,False
+572,"In logic, temporal logic is any system of rules and symbolism for representing, and reasoning about, propositions qualified in terms of time (for example, ""I am always hungry"", ""I will eventually be hungry"", or ""I will be hungry until I eat something"").",False
+573,Temporal logic is a formal system for specifying and reasoning about concurrent programs.,False
+574,Introduction: The phrase temporal logic refers to any system that uses rules and symbolism for representing and reasoning about propositions that are time-limited.,False
+575,"The term Temporal Logic has been broadly used to cover all approaches to reasoning about time and temporal information, as well as their formal representation, within a logical framework, and also more narrowly to refer specifically to the modal-logic type of approach introduced around 1960 by Arthur Prior under the ...",False
+576,"In this paper, we show that the satisfiabil- ity problem for MTL over finite timed words is decidable, with non- primitive recursive complexity.",False
+577,"Temporal relationships and reasoning deal with issues like change, actions, causality, ontology of time, underlying logic, temporal constraints used, reasoning algorithms em- ployed, etc.",False
+578,"In logic, linear temporal logic or linear-time temporal logic (LTL) is a modal temporal logic with modalities referring to time.",False
+579,"First-order logic (like natural language) does not only assume that the world contains facts like propositional logic but also assumes the following things in the world: Objects: A, B, people, numbers, colors, wars, theories, squares, pits, wumpus, ......",False
+580,Temporal logic operators are built-in functions that can tell you the length of time that a state remains active or that a Boolean condition remains true.,False
+581,A simple model-checking problem consists of verifying whether a formula in the propositional logic is satisfied by a given structure.,False
+582,"Epistemic logic is a subfield of epistemology concerned with logical approaches to knowledge, belief and related notions.",False
+583,"The temporal model allows data to be referenced in time, it makes it possible to query the state of an entity at a given time.",False
+584,Fuzzy logic is an approach to variable processing that allows for multiple possible truth values to be processed through the same variable.,False
+585,"From a conceptual standpoint, learning is a process that improves the knowledge of an AI program by making observations about its environment.",False
+586,"the diamond (♦), which will mean necessity and possibility.",False
+587,"The founder of modal logic, C. I. Lewis, defined a series of modal logics which did not have \(\Box\) as a primitive symbol.",True
+588,"Possible worlds exist – they are just as real as our world; Possible worlds are the same sort of things as our world – they differ in content, not in kind; Possible worlds cannot be reduced to something more basic – they are irreducible entities in their own right.",False
+589,Hans Peter Luhn invented Hashing.,True
+590,"In November 1958, at a six-day international conference devoted to scientific information, the inventor Hans Peter Luhn demonstrated a series of his electromechanical machines.",True
+591,A hash function is any function that can be used to map data of arbitrary size to fixed-size values.,False
+592,"""The idea of hashing appears to have been originated by H. P. Luhn, who wrote an internal IBM memorandum in January 1953"" [Knuth98, 3:547, Sect.",True
+593,"But when agriculture came into being, around 9000 BCE in India, woven sieves were developed to separate grains from plants.",True
+594,"hash (v.) 1650s, ""to hack, chop into small pieces,"" from French hacher ""chop up"" (14c.",True
+595,Salts help us mitigate hash table attacks by forcing attackers to re-compute them using the salts for each user.,False
+596,There are four main characteristics of a good hash function: 1) The hash value is fully determined by the data being hashed.,False
+597,"In discrete mathematics, the hash function can be described as a function that is applied to a key.",False
+598,"The SHA-2 family consists of six hash functions with digests (hash values) that are 224, 256, 384 or 512 bits: SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224, SHA-512/256.",False
+599,Hashing is used with a database to enable items to be retrieved more quickly.,False
+600,Luhn's Relation with Hash Map This lead him to develop several ground breaking work in the field for IBM and over 70 patents.,True
+601,Hash functions are used for data integrity and often in combination with digital signatures.,False
+602,Python hash() The hash() method returns the hash value of an object if it has one.,False
+603,Hashish smoke smells similar to marijuana smoke — an earthy scent mixed with notes of fires and ash.,False
+604,"In the early 1990s, Jakob Nielsen, at that time a researcher at Sun Microsystems, popularized the concept of using numerous small usability tests—typically with only five test subjects each—at various stages of the development process.",True
+605,Usability is the degree to which a system is easy to use or user-friendly.,False
+606,Usability testing refers to evaluating a product or service by testing it with representative users.,False
+607,"They are learnability, efficiency, memorability, errors and satisfaction.",False
+608,The goal of usability testing is to understand how real users interact with your website and make changes based on the results.,False
+609,UserTesting founders Dave Garr and Darrell Benatar recognized the need for fast human insight back in 1999 when the pair first began working together and needed a more scalable solution to test web experiences.,True
+610,"An understanding of the five characteristics of usability – effective, efficient, engaging, error tolerant, easy to learn – helps guide the user-centered design tasks to the goal of usable products.",False
+611,"Typical usability goals include speed, accuracy, overall success, or satisfaction measures.",False
+612,Picture a food delivery startup.,False
+613,Report the Findings.,False
+614,"For Nielsen, usability has multiple components and is traditionally associated with four attributes: learning, efficiency, error handling, and satisfaction.",False
+615,"Preece, Rogers and Sharp (Interaction Design) propose 6 usability goals: Effective: effective to use.",False
+616,"From the user's point of view, usability is important because it can make the users complete the task accurately, and users can operate it with a pleasant mood rather than feeling stupid.",False
+617,"The goal of usability testing in health care is to develop or purchase electronic health records (EHRs), medical devices, and other health IT that meet users' needs, improve productivity, and safeguard against errors.",False
+618,"In this page you can discover 11 synonyms, antonyms, idiomatic expressions, and related words for usability, like: serviceability, useability, hci, useableness, accessibility, reliability, serviceableness, accessibilty, dependability, interoperability and usableness.",False
+619,"Today, the applications of multi-dimensional data are as vast as Larry Roberts, the father of computer vision, predicted.",True
+620,"It began in earnest at MIT in the mid-1960s, under the purview of ""Project MAC,"" short for Project on Mathematics and Computation.",True
+621,"Generally, computer vision algorithm development involves a mathematical model from images by drawing in images through computer graphics then image processing image as an input and gives out the output.",False
+622,Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world.,False
+623,"Answer: Alexa,Siri, and Cortana are example of smart assistants .",False
+624,Computer Vision is a field of multiple disciplines that care about how computers can gain a high-level understanding from digital images/videos.,False
+625,"“Computer Vision is an application of Deep Learning that empowers computers to gain a high-level understanding of digital media, such as images and videos.",False
+626,"For Example: - Self-Driving cars/ Automatic Cars, Face Lock in Smartphones.",False
+627,"Through computer vision, clients can portion high dimensional data from different human visual systems and produce meaningful data.",False
+628,Answer: Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.,False
+629,"Stanford's John McCarthy, seminal figure of artificial intelligence, dies at 84.",True
+630,"ohn McCarthy, father of artificial intelligence, in 2006, five years before his death.",True
+631,"Alexa and Siri, Amazon and Apple's digital voice assistants, are much more than a convenient tool—they are very real applications of artificial intelligence that is increasingly integral to our daily life.",False
+632,Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones.,False
+633,"When the concept of reinforcement learning was first introduced in the 1950s, there were two themes – the first focused on developing learning methods via a trial-and-error process, while the other provided a more theoretical framework to solve optimal control problems.",False
+634,"The “reinforcement” in reinforcement learning refers to how certain behaviors are encouraged, and others discouraged.",False
+635,"We conclude that Frank Rosenblatt developed and explored all the basic ingredients of the deep learning systems of today, and that he should be recognized as a Father of Deep Learning, perhaps together with Hinton, LeCun and Bengio who have just received the Turing Award as the fathers of the deep learning revolution.",True
+636,"ohn McCarthy, father of artificial intelligence, in 2006, five years before his death.",True
+637,A great example is the use of AI agents by Deepmind to cool Google Data Centers.,False
+638,"Reinforcement can be used to teach new skills, teach a replacement behavior for an interfering behavior, increase appropriate behaviors, or increase on-task behavior (AFIRM Team, 2015).",False
+639,Year 1943: The first work which is now recognized as AI was done by Warren McCulloch and Walter pits in 1943.,True
+640,"But the field of AI wasn't formally founded until 1956, at a conference at Dartmouth College, in Hanover, New Hampshire, where the term ""artificial intelligence"" was coined.",True
+641,"Neural networks were first proposed in 1944 by Warren McCullough and Walter Pitts, two University of Chicago researchers who moved to MIT in 1952 as founding members of what's sometimes called the first cognitive science department.",True
+642,"By the time he reached his 50s, Mr Hinton's back problems were so severe that he decided to just stop sitting down.",False
+643,Evaluation is the ability to reach an informed judgment about the value of a source to your historical topic.,False
+644,"The first documented formal use of evaluation took place in 1792 when William Farish utilized the quantitative mark to assess students' performance (Hoskins, 1968).",True
+645,Evaluation is a process that critically examines a program.,False
+646,Definition of evaluation Evaluation involves collection of information or data and facilitates judgements about the success and value of an intervention.,False
+647,Sources of history have to be genuine and their quality & authenticity have to be determined as per the internal standards.,True
+648,"TC's legacy in measurement, assessment and evaluation dates back to 1904, when education psychologist Edward L. Thorndike published An Introduction to the Theory of Mental and Social Measurements, since hailed as the first textbook to define the knowledge base now known as classical test theory.",True
+649,"Ralph Tyler, the “Father of Evaluation,” has his own era, the Tylerian Age.",True
+650,"Evaluation provides a systematic method to study a program, practice, intervention, or initiative to understand how well it achieves its goals.",False
+651,"The main types of evaluation are process, impact, outcome and summative evaluation.",False
+652,It helps teachers and learners to improve teaching and learning.,False
+653,An example of evaluate is when a teacher reviews a paper in order to give it a grade.,False
+654,The two types of evaluation described below – formative and summative – are not mutually exclusive.,False
+655,Evaluation is a set of research methods and associated methodologies with a distinctive purpose.,False
+656,"Not all information is reliable or true, nor will all information be suitable for your paper or project.",False
+657,"When you use the following 5 important criteria -- Accuracy, Authority, Objectivity, Currency, and Coverage -- wading through the mass of information can be less confusing, and, you can be a better consumer of information.",False
+658,"Although it is important to evaluate information published in any format, evaluation is particularly important for information found on the web.",False
+659,Computational mathematics involves the use of math and computers to solve problems and predict outcomes.,False
+660,"The earliest evidence of written mathematics dates back to the ancient Sumerians, who built the earliest civilization in Mesopotamia.",True
+661,Solving mathematical problems by computer simulation as opposed to analytic methods of applied mathematics.,False
+662,"Beginning in the 6th century BC with the Pythagoreans, with Greek mathematics the Ancient Greeks began a systematic study of mathematics as a subject in its own right.",True
+663,"Computational mathematics can be a great field to prepare for a data analyst position, even right out of undergraduate study.",False
+664,"Math computation skills comprise what many people refer to as basic arithmetic: addition, subtraction, multiplication and division.",False
+665,We have considered some very early examples of counting.,True
+666,One of the earliest known mathematicians were Thales of Miletus (c. 624–c.,True
+667,2) Math is a human construct.,True
+668,Mathematics & Computing Engineering is an amalgamation of mathematics with computer science and financial engineering.,False
+669,"One of the tasks of a computational scientist is to analyze large amounts of data, often from astrophysics or related fields, as these can often generate huge amounts of data.",False
+670,The oldest written texts on mathematics are Egyptian papyruses.,True
+671,Archimedes is known as the Father Of Mathematics.,True
+672,"al-Khwārizmī, in full Muḥammad ibn Mūsā al-Khwārizmī, (born c. 780 —died c. 850), Muslim mathematician and astronomer whose major works introduced Hindu-Arabic numerals and the concepts of algebra into European mathematics.",True
+673,"Computational studies, used to find a starting point for a laboratory synthesis or to assist in understanding experimental data, such as the position and source of spectroscopic peaks.",False
+674,"Computational physics is the study of scientific problems using computational methods; it combines computer science, physics and applied mathematics to develop scientific solutions to complex problems.",False
+675,"In mathematics, a differential equation is an equation that relates one or more unknown functions and their derivatives.",False
+676,Ulam and von Neumann created a method for calculating liquid motion in the late 1950s.,True
+677,"A cellular automaton (CA) is a collection of cells arranged in a grid of specified shape, such that each cell changes state as a function of time, according to a defined set of rules driven by the states of neighboring cells.",False
+678,Our universe is a Cellular Automaton consisting of a huge array of cells capable of storing numeric information.,False
+679,"In mathematics and computability theory, an elementary cellular automaton is a one-dimensional cellular automaton where there are two possible states (labeled 0 and 1) and the rule to determine the state of a cell in the next generation depends only on the current state of the cell and its two immediate neighbors.",False
+680,They were invented in the 1940s by American mathematicians John von Neumann and Stanislaw Ulam at Los Alamos National Laboratory.,True
+681,Cellular automata (CA) are discrete models of space and time and typically involve interactions of cells across homogeneous lattice grids.,False
+682,Cellular Automata can be considered discrete dynamical systems and at the same time a model of parallel computation.,False
+683,1 : a mechanism that is relatively self-operating especially : robot.,False
+684,"There are 256 such automata, each of which can be indexed by a unique binary number whose decimal representation is known as the ""rule"" for the particular automaton.",False
+685,"elementary cellular automata, there are 88 fundamentally inequivalent rules (Wolfram 2002, p. 57).",False
+686,"The genetic algorithm (GA), developed by John Holland and his collaborators in the 1960s and 1970s (Holland, 1975; De Jong, 1975), is a model or abstraction of biological evolution based on Charles Darwin's theory of natural selection.",True
+687,"Genetic Algorithms (GA) were introduced by John Holland in 1975 (Holland, 1975).",True
+688,This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation.,False
+689,"The genetic algorithm is a method for solving both constrained and unconstrained optimization problems that is based on natural selection, the process that drives biological evolution.",False
+690,All the big companies are now using Neural Nets(NNs) and Genetic Algorithms(GAs) to help their NNs to learn better and more efficiently.,False
+691,The purpose of mutation in GAs is to introduce diversity into the sampled population.,False
+692,Fitness function and Crossover techniques are the two main features of the Genetic Algorithm.,False

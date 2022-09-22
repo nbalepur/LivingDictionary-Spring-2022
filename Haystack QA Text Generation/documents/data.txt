@@ -1,0 +1,63 @@
+Machine learning (ML) is an important tool for the goal of leveraging technologies around artificial intelligence. Because of its learning and decision-making abilities, machine learning is often referred to as AI, though, in reality, it is a subdivision of AI. Until the late 1970s, it was a part of AI’s evolution. Then, it branched off to evolve on its own. Machine learning has become a very important response tool for cloud computing and eCommerce, and is being used in a variety of cutting edge technologies.
+
+Machine learning is a necessary aspect of modern business and research for many organizations today. It uses algorithms and neural network models to assist computer systems in progressively improving their performance. Machine learning algorithms automatically build a mathematical model using sample data – also known as “training data” – to make decisions without being specifically programmed to make those decisions.
+
+Machine learning is, in part, based on a model of brain cell interaction. The model was created in 1949 by Donald Hebb in a book titled The Organization of Behavior (PDF). The book presents Hebb’s theories on neuron excitement and communication between neurons.
+
+Hebb wrote, “When one cell repeatedly assists in firing another, the axon of the first cell develops synaptic knobs (or enlarges them if they already exist) in contact with the soma of the second cell.” Translating Hebb’s concepts to artificial neural networks and artificial neurons, his model can be described as a way of altering the relationships between artificial neurons (also referred to as nodes) and the changes to individual neurons. The relationship between two neurons/nodes strengthens if the two neurons/nodes are activated at the same time and weakens if they are activated separately. The word “weight” is used to describe these relationships, and nodes/neurons tending to be both positive or both negative are described as having strong positive weights. Those nodes tending to have opposite weights develop strong negative weights (e.g. 1×1=1, -1x-1=1, -1×1=-1).
+
+Machine Learning the Game of Checkers
+Arthur Samuel of IBM developed a computer program for playing checkers in the 1950s. Since the program had a very small amount of computer memory available, Samuel initiated what is called alpha-beta pruning. His design included a scoring function using the positions of the pieces on the board. The scoring function attempted to measure the chances of each side winning. The program chooses its next move using a minimax strategy, which eventually evolved into the minimax algorithm.
+
+Samuel also designed a number of mechanisms allowing his program to become better. In what Samuel called rote learning, his program recorded/remembered all positions it had already seen and combined this with the values of the reward function. Arthur Samuel first came up with the phrase “machine learning” in 1952.
+
+The Perceptron
+In 1957, Frank Rosenblatt – at the Cornell Aeronautical Laboratory – combined Donald Hebb’s model of brain cell interaction with Arthur Samuel’s machine learning efforts and created the perceptron. The perceptron was initially planned as a machine, not a program. The software, originally designed for the IBM 704, was installed in a custom-built machine called the Mark 1 perceptron, which had been constructed for image recognition. This made the software and the algorithms transferable and available for other machines. 
+
+Described as the first successful neuro-computer, the Mark I perceptron developed some problems with broken expectations. Although the perceptron seemed promising, it could not recognize many kinds of visual patterns (such as faces), causing frustration and stalling neural network research. It would be several years before the frustrations of investors and funding agencies faded. Neural network/machine learning research struggled until a resurgence during the 1990s.
+
+The Nearest Neighbor Algorithm
+In 1967, the nearest neighbor algorithm was conceived, which was the beginning of basic pattern recognition. This algorithm was used for mapping routes and was one of the earliest algorithms used in finding a solution to the traveling salesperson’s problem of finding the most efficient route. Using it, a salesperson enters a selected city and repeatedly has the program visit the nearest cities until all have been visited. Marcello Pelillo has been given credit for inventing the “nearest neighbor rule.” He, in turn, credits the famous Cover and Hart paper of 1967 (PDF).
+
+Multilayers Provide the Next Step
+In the 1960s, the discovery and use of multilayers opened a new path in neural network research. It was discovered that providing and using two or more layers in the perceptron offered significantly more processing power than a perceptron using one layer. Other versions of neural networks were created after the perceptron opened the door to “layers” in networks, and the variety of neural networks continues to expand. The use of multiple layers led to feedforward neural networks and backpropagation.
+
+Backpropagation, developed in the 1970s, allows a network to adjust its hidden layers of neurons/nodes to adapt to new situations. It describes “the backward propagation of errors,” with an error being processed at the output and then distributed backward through the network’s layers for learning purposes. Backpropagation is now being used to train deep neural networks.
+
+An artificial neural network (ANN) has hidden layers which are used to respond to more complicated tasks than the earlier perceptrons could. ANNs are a primary tool used for machine learning. Neural networks use input and output layers and, normally, include a hidden layer (or layers) designed to transform input into data that can be used the by output layer. The hidden layers are excellent for finding patterns too complex for a human programmer to detect, meaning a human could not find the pattern and then teach the device to recognize it.
+
+Machine Learning and Artificial Intelligence Take Separate Paths
+In the late 1970s and early 1980s, artificial intelligence research had focused on using logical, knowledge-based approaches rather than algorithms. Additionally, neural network research was abandoned by computer science and AI researchers. This caused a schism between artificial intelligence and machine learning. Until then, machine learning had been used as a training program for AI.
+
+The machine learning industry, which included a large number of researchers and technicians, was reorganized into a separate field and struggled for nearly a decade. The industry goal shifted from training for artificial intelligence to solving practical problems in terms of providing services. Its focus shifted from the approaches inherited from AI research to methods and tactics used in probability theory and statistics. During this time, the ML industry maintained its focus on neural networks and then flourished in the 1990s. Most of this success was a result of Internet growth, benefiting from the ever-growing availability of digital data and the ability to share its services by way of the Internet.
+
+Boosting
+“Boosting” was a necessary development for the evolution of machine learning. Boosting algorithms are used to reduce bias during supervised learning and include ML algorithms that transform weak learners into strong ones. The concept of boosting was first presented in a 1990 paper titled “The Strength of Weak Learnability,” by Robert Schapire. Schapire states, “A set of weak learners can create a single strong learner.” Weak learners are defined as classifiers that are only slightly correlated with the true classification (still better than random guessing). By contrast, a strong learner is easily classified and well-aligned with the true classification.
+
+Most boosting algorithms are made up of repetitive learning weak classifiers, which then add to a final strong classifier. After being added, they are normally weighted in a way that evaluates the weak learners’ accuracy. Then the data weights are “re-weighted.” Input data that is misclassified gains a higher weight, while data classified correctly loses weight. This environment allows future weak learners to focus more extensively on previous weak learners that were misclassified.
+
+The basic difference between the various types of boosting algorithms is “the technique” used in weighting training data points. AdaBoost is a popular machine learning algorithm and historically significant, being the first algorithm capable of working with weak learners. More recent algorithms include BrownBoost, LPBoost, MadaBoost, TotalBoost, xgboost, and LogitBoost. A large number boosting algorithms work within the AnyBoost framework.
+
+Speech Recognition
+Currently, much of speech recognition training is being done by a Deep Learning technique called long short-term memory (LSTM), a neural network model described by Jürgen Schmidhuber and Sepp Hochreiter in 1997. LSTM can learn tasks that require memory of events that took place thousands of discrete steps earlier, which is quite important for speech.
+
+Around the year 2007, long short-term memory started outperforming more traditional speech recognition programs. In 2015, the Google speech recognition program reportedly had a significant performance jump of 49 percent using a CTC-trained LSTM.
+
+Facial Recognition Becomes a Reality
+In 2006, the Face Recognition Grand Challenge – a National Institute of Standards and Technology program – evaluated the popular face recognition algorithms of the time. 3D face scans, iris images, and high-resolution face images were tested. Their findings suggested the new algorithms were ten times more accurate than the facial recognition algorithms from 2002 and 100 times more accurate than those from 1995. Some of the algorithms were able to outperform human participants in recognizing faces and could uniquely identify identical twins.
+
+In 2012, Google’s X Lab developed an ML algorithm that can autonomously browse and find videos containing cats. In 2014, Facebook developed DeepFace, an algorithm capable of recognizing or verifying individuals in photographs with the same accuracy as humans.
+
+Machine Learning at Present
+Machine learning is now responsible for some of the most significant advancements in technology. It is being used for the new industry of self-driving vehicles, and for exploring the galaxy as it helps in identifying exoplanets. Recently, Machine learning was defined by Stanford University as “the science of getting computers to act without being explicitly programmed.” Machine learning has prompted a new array of concepts and technologies, including supervised and unsupervised learning, new algorithms for robots, the Internet of Things, analytics tools, chatbots, and more. Listed below are seven common ways the world of business is currently using machine learning:
+
+Analyzing Sales Data: Streamlining the data
+Real-Time Mobile Personalization: Promoting the experience
+Fraud Detection: Detecting pattern changes
+Product Recommendations: Customer personalization
+Learning Management Systems: Decision-making programs
+Dynamic Pricing: Flexible pricing based on a need or demand
+Natural Language Processing: Speaking with humans
+Machine learning models have become quite adaptive in continuously learning, which makes them increasingly accurate the longer they operate. ML algorithms combined with new computing technologies promote scalability and improve efficiency. Combined with business analytics, machine learning can resolve a variety of organizational complexities. Modern ML models can be used to make predictions ranging from outbreaks of disease to the rise and fall of stocks.
+
+Google is currently experimenting with machine learning using an approach called instruction fine-tuning. The goal is to train an ML model  to resolve natural language processing issues in a generalized way. The process trains the model to solve a broad range of problems, rather than only one kind of problem.
