@@ -1,0 +1,4 @@
+section,train_acc,test_acc
+history,0.9915479353,0.841825646
+applications,0.9997197309,0.7840336134
+definition,0.9993990385,0.7081081081
